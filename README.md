@@ -15,7 +15,7 @@ This To-Do List application is built using React and offers various functionalit
 
 1. Clone the repository:
    
-   git clone https://github.com/ms-maheswari/todo-list-react.git
+   git clone https://github.com/ms-maheswari/To-do-list
 
 2. Navigate to the project directory:
 
